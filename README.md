@@ -1,16 +1,27 @@
 # hello-world
 My first repository on GitHub.
 
-# CPSC 4800: Computing for Data Analytics
+# Project hello world
 
-In this lab you will get to practice working with github including creating and forking a repo on github.
-## Exercise 1 - Creating a repo on github, learning more about markdown
+This is a test project.
 
-  - Create a github account here (https://github.com/)
-  - Create a new public repository called “hello-world” on github, add a description of your repository “My first repository on GitHub.”. Initialize this repository with a README.
-  - In your repository’s list of files, click README.md.
-  - Above the file’s content, click edit.
-  - On the Edit file tab, create the sample README file that is similar to this file, the aim is to practice working with the markdown document so please esnure that your file is looking similar to the pdf file
-  
-  
-  
+## Description
+
+This test project is meant for learning purposes.
+
+## Getting started
+
+### Dependencies
+
+  - A github account 
+  - Windows 10
+
+### Installing
+
+  -Download github here (https://github.com/)
+
+> code blocks for commands.
+
+## License
+
+This **project** is licenced under M1 Licence - see License.md files for details
