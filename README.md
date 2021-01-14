@@ -20,7 +20,7 @@ This test project is meant for learning purposes.
 
   -Download github here (https://github.com/)
 
-> code blocks for commands.
+`code blocks for commands.`
 
 ## License
 
